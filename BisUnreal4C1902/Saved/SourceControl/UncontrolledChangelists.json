@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nitram Rijo/Documents/TrainerMati2/BisUnreal4C1902/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Nitram Rijo/Documents/TrainerMati2/BisUnreal4C1902/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Nitram Rijo/Documents/TrainerMati2/BisUnreal4C1902/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/7M/BVA5SVH2WQHVA1NOIIQCP8.uasset"
+			]
+		}
+	]
+}
